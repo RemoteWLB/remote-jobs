@@ -1,20 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-01-13  
+### 🕘 Last updated: 2024-01-14  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
-| Title | Skill |  
-|:-----:|:-----:|  
-| [senior-analytics-engineer-data-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-01/senior-analytics-engineer-data-engineer) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-python-dl-automation-engineer-deep-learning-algorithms](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-01/senior-python-dl-automation-engineer-deep-learning-algorithms) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [java-data-engineer-colombia](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-01/java-data-engineer-colombia) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [software-engineer-neural-net-deployment-35796](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-01/software-engineer-neural-net-deployment-35796) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [middle-front-end-vue-js-software-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-01/middle-front-end-vue-js-software-engineer) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
-| [software-engineer-specialist-java-api](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-01/software-engineer-specialist-java-api) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-engineer-semantic-search](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-01/senior-engineer-semantic-search) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [senior-software-engineer-remote-34851](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-01/senior-software-engineer-remote-34851) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [more](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+|                                                                                           Title                                                                                            |                                   Skill                                   |  
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|  
+| [senior-software-development-engineer-in-test-sdet-34139](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/senior-software-development-engineer-in-test-sdet-34139)  | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                                      [lead-rust-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/lead-rust-engineer)                                       | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                 [energy-utilities-full-stack-net-react-iot](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-01/energy-utilities-full-stack-net-react-iot)                  |     [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/)     |  
+|                              [eudm-senior-engineer-30413](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/eudm-senior-engineer-30413)                               | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                                 [software-engineer-35879](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/software-engineer-35879)                                  | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                                [senior-solidity-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/senior-solidity-engineer)                                 | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                          [senior-backend-developer-35518](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/senior-backend-developer-35518)                           | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                     [software-engineer-systems-compilers](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/software-engineer-systems-compilers)                      | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [middle-full-stack-php-developer-wordpress-contract-remote](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-01/middle-full-stack-php-developer-wordpress-contract-remote) |    [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/)    |  
+|                     [senior-software-test-engineer-34862](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/senior-software-test-engineer-34862)                      | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+|                                                              [more](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs)                                                               |                                    ...                                    |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
