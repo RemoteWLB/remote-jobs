@@ -1,21 +1,21 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-01-25  
+### 🕘 Last updated: 2024-01-26  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-vue-js-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-01/senior-vue-js-developer) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
-| [sr-network-security-engineer-remote](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/sr-network-security-engineer-remote) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [net-developer-38114](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-01/net-developer-38114) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [api-intern](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-01/api-intern) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [frontend-full-stack-software-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-01/frontend-full-stack-software-engineer) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [senior-data-engineer-37275](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-01/senior-data-engineer-37275) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-application-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-01/senior-application-developer) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-solidity-engineer-35882](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-01/senior-solidity-engineer-35882) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [head-of-business-development](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/head-of-business-development) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-backend-developer-38129](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-01/senior-backend-developer-38129) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [software-engineer-38546](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-01/software-engineer-38546) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [java-software-engineer-35839](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-01/java-software-engineer-35839) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [typescript-engineer-ii-iii](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-01/typescript-engineer-ii-iii) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [systems-engineer-38501](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/systems-engineer-38501) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [nodejs-developer-winter-internship-2024](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-01/nodejs-developer-winter-internship-2024) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [storage-and-backup-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/storage-and-backup-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-developer-37364](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-01/senior-developer-37364) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [word-press-developer-winter-internship-2024](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-01/word-press-developer-winter-internship-2024) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [lead-software-engineer-38449](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-01/lead-software-engineer-38449) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [data-analyst-38062](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-01/data-analyst-38062) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [more](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
