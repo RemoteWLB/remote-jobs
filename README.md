@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-02-24  
+### 🕘 Last updated: 2024-02-25  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [frontend-developer-54287](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-02/frontend-developer-54287) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [senior-software-engineer-frontend-54832](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-02/senior-software-engineer-frontend-54832) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [software-engineer-frontend-55451](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-02/software-engineer-frontend-55451) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [developpeur-fullstack-node-js-vue-js-job-dating-des-experts-le-8-et-9-mars-47893](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-02/developpeur-fullstack-node-js-vue-js-job-dating-des-experts-le-8-et-9-mars-47893) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
-| [go-typescript-node-developer-remote-latin-america-55114](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-02/go-typescript-node-developer-remote-latin-america-55114) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [go-typescript-node-developer-remote-latin-america-54946](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-02/go-typescript-node-developer-remote-latin-america-54946) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [senior-back-end-software-engineer-typescript-nodejs-remote-within-emea-47894](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-02/senior-back-end-software-engineer-typescript-nodejs-remote-within-emea-47894) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [staff-backend-software-engineer-java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-02/staff-backend-software-engineer-java) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-software-development-engineer-in-test-sdet-java-47885](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-02/senior-software-development-engineer-in-test-sdet-java-47885) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-lead-backend-developer-javascript-node-js-sre-54546](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-02/senior-lead-backend-developer-javascript-node-js-sre-54546) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [View all 804 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [frontend-software-engineer-gps-49152](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-02/frontend-software-engineer-gps-49152) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [staff-data-scientist-python-sql-autonomy-analytics](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-02/staff-data-scientist-python-sql-autonomy-analytics) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [senior-python-developer-remote-work-anywhere-49180](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-02/senior-python-developer-remote-work-anywhere-49180) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [python-engineer-51776](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-02/python-engineer-51776) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [vmt-senior-back-end-data-engineer-python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-02/vmt-senior-back-end-data-engineer-python) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [principal-engineer-design-services-java-python-postgresql](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-02/principal-engineer-design-services-java-python-postgresql) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [backend-developer-python-aws](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-02/backend-developer-python-aws) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [php-developer-53581](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-02/php-developer-53581) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [fullstack-developer-php-react-49176](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-02/fullstack-developer-php-react-49176) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [open-source-developer-rust-smart-contracts](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-02/open-source-developer-rust-smart-contracts) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 821 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
