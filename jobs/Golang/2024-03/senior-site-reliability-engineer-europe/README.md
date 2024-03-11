@@ -1,0 +1,127 @@
+# [Senior Site Reliability Engineer (Europe)](https://www.remotewlb.com/apply/senior-site-reliability-engineer-europe)  
+### Dubset Media Holdings, Inc.  
+#### `💰 ~97k` `🌎 Remote,Europe`  
+
+Description
+
+**Please note we can only accept candidates located in Europe for this position.**
+
+  
+
+Pex is a digital rights technology company, enabling the fair and transparent use of copyrighted content at the speed and scale of the Internet.
+
+  
+
+We serve everyone who uses the Internet to view, share or create content – from the largest platforms and rightsholders, to independent creators. Our advanced licensing infrastructure allows platforms to manage and license content before it's published, empowering creators to upload freely while respecting copyright. In return, rightsholders are able to monitor and capitalize on the content they own.
+
+  
+
+Unlike other copyright technology companies, our real-time marketplace brings people and platforms together to support the full content ecosystem and all of its constituents. We are building towards a world in which creators can freely mix and remix content, a world in which rights are respected and rightsholders are correctly identified and properly compensated, and a world in which platforms are able to innovate while bringing everyone together without fear of litigation.
+
+  
+
+As we build groundbreaking products with a global scale, we're looking for highly motivated and curious individuals to join us on our mission to support the creator economy with fair and transparent licensing.
+
+  
+
+ **The Team**
+
+  
+
+Our Infrastructure Engineering team is a fully remote, cross-functional, and autonomous team made up of talented engineers from various backgrounds and skill levels. The Infra Team meets daily during a brief standup setting the stage for a day filled with dynamic collaboration and asynchronous teamwork. At Pex, we value transparency and clear communication, and we strive to create an environment where all team members feel safe and supported to take initiative, experiment, learn from mistakes, and share opinions freely.
+
+  
+
+**The Role**
+
+  
+
+We are looking for someone who enjoys working with development teams, dealing with problems of massive scale, automation, and strives to eliminate toil as much as possible, without making things too complicated. You will take the lead in building, managing and monitoring our extensive cloud infrastructure and look for opportunities to test and introduce new technologies where applicable. You’ll help us modernize and optimize our CI/CD pipelines and in every way possible embody the DevOps mindset and culture.
+
+  
+
+ **About You**
+
+  
+
+We have a lot of people who did not follow the traditional career path. We value people who are curious and collaborative and bring their unique perspectives to work each day. While we’re excited to learn what you can bring to the team, there are a few key things you’ll need that are essential to success in this role:
+
+  
+
+• Experience building scalable infrastructure
+
+• Longtime exposure to the POSIX ecosystem
+
+• Intimate knowledge of one of the major cloud services
+
+• Experience with Kubernetes, Helm, Flux (GitOps)
+
+• Experience with infrastructure automation with tools like Ansible
+
+• Solid understanding of networking principles and TCP/IP
+
+• Experience with kernel and network tuning
+
+• Solid written and verbal communication skills
+
+• A curious and collaborative mindset who takes ownership of new and challenging problems and sees them through to completion either by themselves or through building and leading a group of people
+
+• Not afraid to ask questions or for help, when needed
+
+  
+
+  
+
+ **Extra points if:**
+
+  
+
+• You have experience with Foundation DB
+
+• You're interested in or have experience with message queuing systems like PubSub, SQS, or Apache Pulsar
+
+• You have experience with time series databases (like Influx DB, Prometheus or Victoria Metrics)
+
+  
+
+  
+
+ **Our Stack**
+
+  
+
+• Go, C++, Python
+
+• Postgres, Citus, Foundation DB, Scylla (Cassandra), Elastic, InfluxDB, Prometheus, Victoria Metrics
+
+• CI/CD pipeline backed by Jenkins and Flux
+
+• Kubernetes, Docker
+
+• Azure
+
+  
+
+  
+
+ **Perks and Benefits**
+
+  
+
+• Salary: $90,500 - $97,000 USD per year
+
+• Equity, with perks like a 10-year exercise window
+
+• 30 days of paid time off + 9 paid holidays + the day off on your birthday
+
+• Generous paid parental leave
+
+• A fully remote working environment and supportive culture that cares about both excellent work and
+
+work-life balance
+
+Pex is an equal opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Since Pex is committed to the full inclusion of all qualified individuals, we strive to ensure that people with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, please let us know when applying for a particular role in the “Additional Information” section.
+
+  
+## CLICK TO [APPLY](https://www.remotewlb.com/apply/senior-site-reliability-engineer-europe)
+
