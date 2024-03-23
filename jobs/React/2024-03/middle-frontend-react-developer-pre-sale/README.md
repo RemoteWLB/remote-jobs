@@ -1,0 +1,59 @@
+# [Middle Frontend (React) developer (Pre-Sale)](https://www.remotewlb.com/apply/middle-frontend-react-developer-pre-sale)  
+### ETEAM  
+#### `🌎 TELECOMMUTE Spain`  
+
+### **Description**
+
+ETEAM is a seasoned digital product agency specializing in transformative growth for different types of businesses, from VC-backed startups to the largest company in the world, for the last decade.
+
+On behalf of our future client, ETEAM is looking for a Middle Frontend (React) developer on a full-time basis.
+
+ **Responsibilities:**
+
+  * Develop responsive and user-friendly web interfaces using React.js.
+  * Collaborate with designers and backend developers to implement UI/UX designs.
+  * Write clean, efficient, and maintainable code following best practices.
+  * Optimize applications for maximum speed and scalability.
+  * Conduct code reviews and provide constructive feedback to team members.
+  * Stay updated on emerging trends and best practices in front-end development.
+
+**Requirements:**
+
+  * Bachelor's degree in Computer Science, Engineering, or related field.
+  * 3+ years of experience as a React Developer.
+  * Expertise in JavaScript, HTML, CSS, and related web technologies.
+  * Strong proficiency in React.js and its ecosystem (e.g., Redux, React Router).
+  * Experience with responsive design and cross-browser compatibility.
+  * Solid understanding of front-end build tools and CI/CD pipelines.
+  * Excellent problem-solving, leadership, and communication skills.
+  * Ability to thrive in a fast-paced, collaborative environment.
+  * Upper-intermediate written and spoken English.
+
+**We offer:**
+
+  * **Competitive Compensation Package** : Enjoy a competitive compensation package, ensuring you're well-rewarded for your contribution.
+  * **Meaningful Projects** : Projects that leverage modern technologies, allowing to work on up-to-date innovation.
+  * **Positive Environment** : We believe in collaboration, transparency and a supportive workspace where everyone's contribution matters.
+  * **Results-Driven Approach** : We've minimized bureaucracy and micromanagement to let you focus on what you do best.
+  * **Work-life balance**. Flexible schedules and extended paid vacations are essential to stay refreshed and productive in the long run.
+  * **Language Development** : Benefit from in-house English courses and interactions with clients and teammates, enhancing seamless global communication.
+  * **Engaging Team Activities** : Be a part of various team-building activities and corporate events that boost morale, help bond with the team, and create sweet memories.
+
+**Why Us: Our Values, Your Benefits.**
+
+  * Join our team, spread across 17 countries, and enjoy the benefits of working in a global company. Our multicultural setup promotes appreciation, respect, creating a rich and rewarding work environment.
+  * Our core values are Collaboration, Accountability, Transparency, and Mastery. These principles guide us and inspire our endeavors every day.
+  * Location is not a barrier when it comes to providing you with all the necessary equipment to perform your job effectively. Rest assured that you will have everything you need, regardless of where you are located.
+  * We care about giving back. By joining us, you'll be part of a community that contributes to charity and positively impacts others.
+
+### **Requirements**
+
+###  **Benefits**
+
+###  **About ETEAM**
+
+ETEAM is a seasoned digital product agency specializing in transformative growth for different types of businesses, from VC-backed startups to the largest company in the world, for the last decade.
+
+  
+## CLICK TO [APPLY](https://www.remotewlb.com/apply/middle-frontend-react-developer-pre-sale)
+
