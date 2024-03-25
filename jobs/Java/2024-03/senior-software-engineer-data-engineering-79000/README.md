@@ -1,0 +1,40 @@
+# [Senior Software Engineer, Data Engineering](https://www.remotewlb.com/apply/senior-software-engineer-data-engineering-79000)  
+### Stack AV  
+#### `💰 ~0k` `🌎 Pittsburgh, PA,Remote`  
+
+Description
+
+**About**
+
+With customers at its core, Stack AV is focused on revolutionizing the way businesses transport goods, designing solutions to alleviate long-standing issues that have plagued the trucking industry including driver shortages, lagging efficiency in uptime per vehicle, overarching safety concerns, high operating costs, and elevated emission levels. By building safe and efficient autonomous trucking solutions, Stack AV is creating better and smarter supply chains for its partners, improving business outcomes for its customers, delivering goods to end-users faster, and ultimately moving the trucking industry forward.
+
+ **What We're Looking for:**
+
+We are looking for people who are passionate about delivering self-driving (L4) products that make the way we move safer, faster, and more efficient. We seek mission-driven, highly skilled people with deep experience in fast-paced, rapidly growing, tech development environments. We seek individuals who want to spearhead the development of our data engineering tools and platforms to enable our various Machine Learning, Analytics, and Operational workflows.
+
+**What Success Looks Like:**
+
+  * Build end-to-end data pipelines from raw data to visualizations
+  * Build a workflow orchestration platform to be used by other developers
+  * Partner with other development teams to build metrics pipelines
+  * Hands-on experience implementing data pipeline infrastructure for data ingestion and transformation near real-time availability of data for applications, BI analytics, and ML pipelines.
+  * Experience designing optimized solutions for large datasets.
+  * Expert level working knowledge of Data Lake technologies, data storage formats (Parquet, ORC, Avro), and query engines (Athena, Presto, Dremio) and associated concepts for building optimized solutions at scale.
+  * Expert level in one of the following programming languages or similar- Python, Java, Go
+  * Working experience with BI tools like Apache Superset or Tableau
+  * Experience in designing data streaming and event-based data solutions (Kafka, Kinesis, SQS/SNS or the like)
+  * Working experience with data warehouses like (Greenplum, RedShift, Azure SQL Data Warehouse, etc.)
+  * Experience with data pipelines tools (Flink, Spark or like) and orchestration tools such as Airflow.
+  * Knowledge and experience designing solutions with cloud-native AWS Cloud services (EC2, EMR, RDS, EKS etc.) as well as deploying alternative solutions for appropriate use cases.
+  * Familiarity with cloud-native AWS Cloud services (EC2, S3, DynamoDB, EMR, RDS, EKS etc.) as well as deploying alternative solutions for appropriate use cases
+
+_We are proud to be an equal opportunity workplace. We believe that diverse teams produce the best ideas and outcomes. We are committed to building a culture of inclusion, entrepreneurship, and innovation across gender, race, age, sexual orientation, religion, disability, and identity._
+
+_**Check out our Privacy Policy.**_
+
+**Please Note:** Pursuant to its business activities and use of technology, Stack AV complies with all applicable U.S. national security laws, regulations, and administrative requirements, which can restrict Stack AV’s ability to employ certain persons in certain positions pursuant to a range of national security-related requirements. As such, this position may be contingent upon Stack AV verifying a candidate’s residence, U.S. person status, and/or citizenship status. This position may also involve working with software and technologies subject to U.S. export control regulations. Under these regulations, it may be necessary for Stack AV to obtain a U.S. government export license prior to releasing its technologies to certain persons. If Stack AV determines that a candidate’s residence, U.S. person status, and/or citizenship status will require a license, prohibit the candidate from working in this position, or otherwise be subject to national security-related restrictions, Stack AV
+expressly reserves the right to either consider the candidate for a different position that is not subject to such restrictions, on whatever terms and conditions Stack AV shall establish in its sole discretion, or, in the alternative, decline to move forward with the candidate’s application.
+
+  
+## CLICK TO [APPLY](https://www.remotewlb.com/apply/senior-software-engineer-data-engineering-79000)
+
