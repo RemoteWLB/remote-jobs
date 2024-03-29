@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-03-28  
+### 🕘 Last updated: 2024-03-29  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [full-stack-developer-react-python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-03/full-stack-developer-react-python) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [full-stack-developer-au-media-home-based](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-03/full-stack-developer-au-media-home-based) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [devops-engineer-remote-86198](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-03/devops-engineer-remote-86198) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [software-engineer-86464](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-03/software-engineer-86464) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
-| [software-engineer-86432](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-03/software-engineer-86432) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [senior-manager-software-engineering-84358](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-03/senior-manager-software-engineering-84358) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [machine-learning-engineer-86308](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-03/machine-learning-engineer-86308) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-cloud-systems-engineer-sre](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-03/senior-cloud-systems-engineer-sre) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [freelance-backend-developer-python-y-zoho](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-03/freelance-backend-developer-python-y-zoho) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [full-stack-engineer-86255](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-03/full-stack-engineer-86255) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [View all 9856 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-android-app-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-03/senior-android-app-developer) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [sales-engineer-benelux-nordics-66220](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-03/sales-engineer-benelux-nordics-66220) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [tech-lead-web-75902](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-03/tech-lead-web-75902) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
+| [lead-software-engineer-87152](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-03/lead-software-engineer-87152) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
+| [mts-2-software-engineer-85257](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-03/mts-2-software-engineer-85257) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [qa-engineering-vp](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-03/qa-engineering-vp) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [software-engineer-remote-mexico-city-mexico](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-03/software-engineer-remote-mexico-city-mexico) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [integration-engineering-manager-53458](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-03/integration-engineering-manager-53458) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [junior-intermediate-test-engineer-automation-python-op01316](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-03/junior-intermediate-test-engineer-automation-python-op01316) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [sr-engineer-front-end-remote-86461](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-03/sr-engineer-front-end-remote-86461) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
+| [View all 10294 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
