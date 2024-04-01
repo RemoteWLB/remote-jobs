@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-03-31  
+### 🕘 Last updated: 2024-04-01  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-full-stack-developer-86112](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-03/senior-full-stack-developer-86112) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
-| [senior-developer-on-ai-advertising-startup](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-03/senior-developer-on-ai-advertising-startup) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [senior-software-engineer-backend-87655](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-03/senior-software-engineer-backend-87655) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [senior-software-engineer-frontend-89208](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-03/senior-software-engineer-frontend-89208) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-lead-software-engineer-iot-platforms-services](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-03/senior-lead-software-engineer-iot-platforms-services) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [staff-software-engineer-identity-and-access-management-trust](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-03/staff-software-engineer-identity-and-access-management-trust) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [staff-cloud-architect](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-03/staff-cloud-architect) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [software-engineering-intern-graduate](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-03/software-engineering-intern-graduate) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [staff-cloud-engineer-89426](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-03/staff-cloud-engineer-89426) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [senior-software-engineer-mobile-45288](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-03/senior-software-engineer-mobile-45288) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 10910 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-front-end-engineer-88163](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-04/senior-front-end-engineer-88163) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
+| [senior-solutions-engineer-89015](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-04/senior-solutions-engineer-89015) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [senior-software-engineer-l5-creative-compute-and-storage](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-04/senior-software-engineer-l5-creative-compute-and-storage) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [senior-software-engineer-integrations-79021](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/senior-software-engineer-integrations-79021) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [staff-software-engineer-payments-incentives-store-value-73465](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-04/staff-software-engineer-payments-incentives-store-value-73465) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [data-engineer-l4-privacy](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/data-engineer-l4-privacy) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [staff-engineer-iaas-containers-os-and-language-runtimes](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-04/staff-engineer-iaas-containers-os-and-language-runtimes) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
+| [sr-android-engineer-driver-framework-83325](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-04/sr-android-engineer-driver-framework-83325) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [sr-data-engineer-89398](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-04/sr-data-engineer-89398) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [engineering-manager-segmentation](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-04/engineering-manager-segmentation) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [View all 10994 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
