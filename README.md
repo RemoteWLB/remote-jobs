@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-04-08  
+### 🕘 Last updated: 2024-04-09  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [full-stack-software-engineer-90639](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-04/full-stack-software-engineer-90639) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [staff-engineer-web-engineering](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-04/staff-engineer-web-engineering) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [director-software-engineering-89056](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/director-software-engineering-89056) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [director-generative-ai-platform-agents-and-tooling-people-leader-remote-eligible-69805](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-04/director-generative-ai-platform-agents-and-tooling-people-leader-remote-eligible-69805) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [sr-sales-engineer-pacific-northwest](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/sr-sales-engineer-pacific-northwest) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [remote-bilingual-customer-technical-support-specialist-bilingual-spanish-englis](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-04/remote-bilingual-customer-technical-support-specialist-bilingual-spanish-englis) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [principal-ai-ml-sdlc-architect-89528](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-04/principal-ai-ml-sdlc-architect-89528) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [staff-senior-software-engineer-ml-systems](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-04/staff-senior-software-engineer-ml-systems) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [software-engineer-90813](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/software-engineer-90813) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [adobe-experience-manager-cms-architect-89561](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-04/adobe-experience-manager-cms-architect-89561) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [View all 11501 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-data-engineer-90763](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/senior-data-engineer-90763) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [engineering-manager-remote-us-90028](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-04/engineering-manager-remote-us-90028) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
+| [software-integration-and-test-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-04/software-integration-and-test-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [machine-learning-engineer-ranking-foundation-90025](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-04/machine-learning-engineer-ranking-foundation-90025) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [technical-program-manager-90738](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/technical-program-manager-90738) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [full-stack-engineer-retail-media-90007](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-04/full-stack-engineer-retail-media-90007) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [senior-full-stack-engineer-python-63964](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-04/senior-full-stack-engineer-python-63964) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [android-automation-engineer-5-android-client-foundations-90043](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/android-automation-engineer-5-android-client-foundations-90043) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [staff-software-engineer-ml-data-platform-89925](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/staff-software-engineer-ml-data-platform-89925) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [principal-solutions-architect-69422](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/principal-solutions-architect-69422) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [View all 11536 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
