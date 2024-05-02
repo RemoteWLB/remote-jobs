@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-04-14  
+### 🕘 Last updated: 2024-05-02  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [front-end-developer-91911](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-04/front-end-developer-91911) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
-| [software-engineer-ii-frontend-remote-canada-pst-working-hours](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/software-engineer-ii-frontend-remote-canada-pst-working-hours) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [site-reliability-engineer-remote-92432](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-04/site-reliability-engineer-remote-92432) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [senior-site-reliability-engineer-remote-mexico-92431](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-04/senior-site-reliability-engineer-remote-mexico-92431) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-applied-ml-scientist-recommendation-and-ranking-92198](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-04/senior-applied-ml-scientist-recommendation-and-ranking-92198) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-software-engineer-home-loans](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-04/senior-software-engineer-home-loans) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [senior-android-developer-mobile-app](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-04/senior-android-developer-mobile-app) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [analista-senior-data-visualization-power-bi-oleo-e-gas](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-04/analista-senior-data-visualization-power-bi-oleo-e-gas) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [software-engineer-ii-frontend-hybrid-san-francisco](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/software-engineer-ii-frontend-hybrid-san-francisco) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [software-engineer-ii-infrastructure-and-platform-remote-92434](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-04/software-engineer-ii-infrastructure-and-platform-remote-92434) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [View all 12095 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [software-engineer-ii-frontend-remote-canada-pst-working-hours](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-05/software-engineer-ii-frontend-remote-canada-pst-working-hours) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [software-engineer-ii-frontend-hybrid-san-francisco](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-05/software-engineer-ii-frontend-hybrid-san-francisco) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [site-reliability-engineer-remote-92432](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-05/site-reliability-engineer-remote-92432) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [senior-site-reliability-engineer-remote-mexico-92431](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-05/senior-site-reliability-engineer-remote-mexico-92431) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-site-reliability-engineer-remote-92427](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-05/senior-site-reliability-engineer-remote-92427) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [software-engineer-ii-infrastructure-and-platform-remote-92434](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-05/software-engineer-ii-infrastructure-and-platform-remote-92434) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [software-engineer-ii-infrastructure-and-platform-remote-78685](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-05/software-engineer-ii-infrastructure-and-platform-remote-78685) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [senior-site-reliability-engineer-remote-mexico-92430](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-05/senior-site-reliability-engineer-remote-mexico-92430) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-site-reliability-engineer-remote-mexico-87813](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-05/senior-site-reliability-engineer-remote-mexico-87813) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-site-reliability-engineer-remote-india-83353](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-05/senior-site-reliability-engineer-remote-india-83353) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 10824 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
