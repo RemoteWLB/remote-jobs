@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-06-03  
+### 🕘 Last updated: 2024-06-04  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [application-security-engineer-108603](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-06/application-security-engineer-108603) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [junior-site-reliability-engineer-104969](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-06/junior-site-reliability-engineer-104969) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [senior-software-engineer-ai-agent-team](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-06/senior-software-engineer-ai-agent-team) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-software-engineer-full-stack-nutrition-wellness](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-06/senior-software-engineer-full-stack-nutrition-wellness) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
-| [principle-software-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-06/principle-software-engineer) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [leader-technique-full-stack-h-f](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-06/leader-technique-full-stack-h-f) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [alternance-developpeur-se-frontend-react-js-limonest-108422](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-06/alternance-developpeur-se-frontend-react-js-limonest-108422) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
-| [software-engineer-internship-testing-technical-analysis-and-automation-wfh-only-108463](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-06/software-engineer-internship-testing-technical-analysis-and-automation-wfh-only-108463) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-backend-python-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-06/senior-backend-python-engineer) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-software-engineer-devops-108958](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-06/senior-software-engineer-devops-108958) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [View all 12799 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [sr-fullstack-developer-java-react-us-citizen-or-lpr](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-06/sr-fullstack-developer-java-react-us-citizen-or-lpr) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [leader-technique-java-php-services-publics-bordeaux-106669](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-06/leader-technique-java-php-services-publics-bordeaux-106669) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [full-stack-engineer-react-react-native-golang-partner-sales-tooling](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-06/full-stack-engineer-react-react-native-golang-partner-sales-tooling) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [data-engineer-109159](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-06/data-engineer-109159) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [full-stack-engineer-109168](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-06/full-stack-engineer-109168) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
+| [junior-javascript-node-js-developer-web-and-mobile-business-unit-109097](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-06/junior-javascript-node-js-developer-web-and-mobile-business-unit-109097) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [python-developer-107296](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-06/python-developer-107296) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [engine-programmer-remote-106759](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/2024-06/engine-programmer-remote-106759) | [Vue](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Vue/) |  
+| [salesforce-engineer-english-m-f-x-onsite-or-remote-in-germany-and-austria](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-06/salesforce-engineer-english-m-f-x-onsite-or-remote-in-germany-and-austria) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [salesforce-engineer-english-m-f-x-onsite-or-remote-in-germany-and-austria-109151](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-06/salesforce-engineer-english-m-f-x-onsite-or-remote-in-germany-and-austria-109151) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [View all 12854 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
