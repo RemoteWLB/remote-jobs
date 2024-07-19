@@ -1,0 +1,58 @@
+# [2024-7275_Software Engineer](https://www.remotewlb.com/apply/2024-7275-software-engineer)  
+### Arch Global Services (Philippines) Inc.  
+#### `🌎 Remote,Quezon City, National Capital Region, Philippines, Philippines`  
+
+### **Company Description**
+
+AGSI was incorporated in April 2016. We are committed to supporting the goals of Arch divisions through exceptional service delivery. We pride ourselves on maintaining flexibility and responsiveness to adapt to business unit and industry demands while focusing on sound project management. We are dedicated to growing and developing our employees as we build strong teams with strategic leadership.
+
+###  **Job Description**
+
+Strategic Analytics is a dynamic, growing team at Arch. The team develops innovative predictive models and analytical tools to improve profitability and growth. This position will support the technical implementation of predictive models and analytical tools of the Strategic Analytics team. The position requires strong Python and API experience, as well as user-facing application support experience. The role is for an individual who is open to exploring and implementing new technology in Azure and Databricks, as the team is dynamic and the technology needs and requirements are fluid and will evolve over time.
+
+  * Develop and maintain Azure Functions and APIs
+  * Develop libraries using Python
+  * Develop real time data transformations, model variable creation, and orchestration activities to support the scoring process
+  * Use SQL, Python and Snowflake to explore and understand underlying data, and suggest improvements for performance and best practice
+  * Document technical workflows and implementation processes
+  * Create and maintain implementation testing scripts (unit and bulk)
+  * Collaborate with project stakeholders and other developers
+  * Code development and deployment using VS Code and GitHub
+  * Contribute and enforce evolving best standards and practices
+
+###  **Qualifications**
+
+ **Technical Skills Proficiency Level Required (R) /Optional (O)**
+
+Python 3 R
+
+Application Development
+
+and Support Experience 2 R
+
+API Development 2 R
+
+SQL 1 R
+
+Azure Functions 1 O
+
+Microsoft Excel 1 O
+
+Excel VBA Scripting 1 O
+
+QA Testing Experience 2 O
+
+  *  **Experience with Python development**
+  *  **Experience with API Development**
+  * Application support experience
+  * Experience with SQL
+  * Experience with Azure Functions is a plus
+  * Ability to clearly communicate across multiple teams, and the ability to communicate and escalate major issues when appropriate
+
+###  **Additional Information**
+
+  * BS in Computer Science, Information Technology degree, Data Analytics or equivalent
+
+  
+## CLICK TO [APPLY](https://www.remotewlb.com/apply/2024-7275-software-engineer)
+
