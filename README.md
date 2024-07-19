@@ -6,8 +6,17 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-  
-| [View all 14433 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-site-reliability-engineer-brazil](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/senior-site-reliability-engineer-brazil) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-ecosystem](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/senior-software-engineer-ecosystem) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [senior-software-engineer-voip-brazil-109379](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/senior-software-engineer-voip-brazil-109379) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [software-engineer-ecosystem-118508](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/software-engineer-ecosystem-118508) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [senior-software-engineer-backend-117599](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-07/senior-software-engineer-backend-117599) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [senior-software-engineer-full-stack-117780](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-07/senior-software-engineer-full-stack-117780) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [software-engineer-ai-ml-115710](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/software-engineer-ai-ml-115710) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-machine-learning-engineer-118315](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-machine-learning-engineer-118315) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [software-engineer-fullstack-118404](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/software-engineer-fullstack-118404) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [ios-engineer-118028](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/ios-engineer-118028) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 14442 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
