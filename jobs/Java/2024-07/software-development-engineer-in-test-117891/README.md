@@ -1,6 +1,6 @@
 # [Software Development Engineer in Test](https://www.remotewlb.com/apply/software-development-engineer-in-test-117891)  
 ### Motive  
-#### `🌎 India - Remote`  
+#### `💰 null` `🌎 India - Remote`  
 
 ### **About the Role:**
 
