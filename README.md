@@ -1,11 +1,14 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-07-21  
+### 🕘 Last updated: 2024-07-22  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [rpa-developer-1](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/rpa-developer-1) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-python-developer-118148](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-python-developer-118148) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [senior-engineer-rails-originals](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/senior-engineer-rails-originals) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [software-engineer-frontend-117134](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-07/software-engineer-frontend-117134) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
 | [software-engineer-trust-and-safety-product-118650](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-07/software-engineer-trust-and-safety-product-118650) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [software-engineer-trust-and-safety-product-118652](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-07/software-engineer-trust-and-safety-product-118652) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
@@ -13,10 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [health-informatics-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/health-informatics-developer) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [partner-development-executive](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/partner-development-executive) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-solutions-engineer-data-insights](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/senior-solutions-engineer-data-insights) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [associate-enterprise-systems-qa-engineer-salesforce-crm](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/associate-enterprise-systems-qa-engineer-salesforce-crm) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [electrical-engineer-118117](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/electrical-engineer-118117) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [iot-software-architect-w-mqtt](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/iot-software-architect-w-mqtt) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 14492 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 14495 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
