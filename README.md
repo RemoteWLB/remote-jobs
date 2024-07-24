@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-07-23  
+### 🕘 Last updated: 2024-07-24  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [advanced-ai-trainer-software-development-c-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/advanced-ai-trainer-software-development-c-expert) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [advanced-ai-trainer-software-development-java-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/advanced-ai-trainer-software-development-java-expert) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [advanced-ai-trainer-software-development-javascript-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/advanced-ai-trainer-software-development-javascript-expert) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [advanced-ai-trainer-software-development-python-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/advanced-ai-trainer-software-development-python-expert) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [bengali-advanced-ai-trainer-software-developer-full-stack-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/bengali-advanced-ai-trainer-software-developer-full-stack-expert) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [malayalam-advanced-ai-trainer-software-developer-full-stack-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/malayalam-advanced-ai-trainer-software-developer-full-stack-expert) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [marathi-advanced-ai-trainer-software-developer-full-stack-expert](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/marathi-advanced-ai-trainer-software-developer-full-stack-expert) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-software-engineer-marketplace](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-software-engineer-marketplace) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-solutions-engineer-118684](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-solutions-engineer-118684) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [machine-learning-engineer-ii-118315](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/machine-learning-engineer-ii-118315) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [View all 14509 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [backend-engineer-elixir](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/backend-engineer-elixir) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [backend-engineer-elixir-118890](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/backend-engineer-elixir-118890) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [engineering-team-leader-backend](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/engineering-team-leader-backend) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [engineering-team-leader-backend-118892](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/engineering-team-leader-backend-118892) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [engineering-team-leader-backend-118893](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/engineering-team-leader-backend-118893) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [engineering-team-leader-backend-118894](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/engineering-team-leader-backend-118894) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [engineering-team-leader-backend-118895](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/engineering-team-leader-backend-118895) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [staff-software-engineer-bridge](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-07/staff-software-engineer-bridge) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [senior-front-end-engineer-avacloud-97212](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-07/senior-front-end-engineer-avacloud-97212) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [senior-infrastructure-engineer-115971](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-07/senior-infrastructure-engineer-115971) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [View all 14556 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
