@@ -6,17 +6,17 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [principal-software-engineer-java-109321](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/principal-software-engineer-java-109321) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [principal-software-engineer-search-lucene](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-07/principal-software-engineer-search-lucene) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [senior-software-engineer-front-end-119957](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-07/senior-software-engineer-front-end-119957) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [senior-full-stack-engineer-growth-119490](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-07/senior-full-stack-engineer-growth-119490) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
+| [full-stack-developer-defender](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-07/full-stack-developer-defender) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
+| [security-integrations-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/2024-07/security-integrations-developer) | [Nodejs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nodejs/) |  
 | [senior-backend-engineer-acquisition-and-app-experience](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-backend-engineer-acquisition-and-app-experience) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [senior-software-product-manager](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-software-product-manager) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [senior-angular-developer-118181](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/2024-07/senior-angular-developer-118181) | [React](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/React/) |  
 | [senior-python-developer-118769](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-python-developer-118769) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [solutions-engineer-cst-mst](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-07/solutions-engineer-cst-mst) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [salesforce-engineer-116746](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/salesforce-engineer-116746) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [analytics-engineer-119499](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/analytics-engineer-119499) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-python-developer-119794](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-python-developer-119794) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-navigation-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-07/senior-navigation-engineer) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-software-engineer-119757](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-07/senior-software-engineer-119757) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 14737 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 14743 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   

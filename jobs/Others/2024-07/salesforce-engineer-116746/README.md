@@ -1,6 +1,6 @@
 # [Salesforce Engineer](https://www.remotewlb.com/apply/salesforce-engineer-116746)  
 ### Maven Clinic  
-#### `🌎 New York, NY; Remote, US`  
+#### `💰 $150,000 - $230,000/yr` `🌎 New York, NY; Remote, US`  
 
 **About the Role**
 
