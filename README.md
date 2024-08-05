@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-08-04  
+### 🕘 Last updated: 2024-08-05  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-analytics-engineer-full-time-contractor](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-analytics-engineer-full-time-contractor) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-analytics-engineer-full-time-contractor-120980](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-analytics-engineer-full-time-contractor-120980) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-analytics-engineer-full-time-contractor-120981](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-08/senior-analytics-engineer-full-time-contractor-120981) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [senior-analytics-engineer-full-time-contractor-120982](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-analytics-engineer-full-time-contractor-120982) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-analytics-engineer-full-time-contractor-120983](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-analytics-engineer-full-time-contractor-120983) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-analytics-engineer-full-time-contractor-120984](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-08/senior-analytics-engineer-full-time-contractor-120984) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [senior-analytics-engineer-full-time-contractor-120985](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-analytics-engineer-full-time-contractor-120985) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-analytics-engineer-full-time-contractor-120986](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-analytics-engineer-full-time-contractor-120986) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-analytics-engineer-full-time-contractor-120987](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/senior-analytics-engineer-full-time-contractor-120987) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [senior-analytics-engineer-full-time-contractor-120988](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/senior-analytics-engineer-full-time-contractor-120988) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [View all 2542 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [inside-solutions-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/inside-solutions-engineer) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [software-development-engineer-121456](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-08/software-development-engineer-121456) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
+| [implementation-engineer-117505](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-08/implementation-engineer-117505) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [senior-ios-developer-114246](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-ios-developer-114246) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [cloud-identity-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/cloud-identity-engineer) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [engineer-ii-core-admin](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-08/engineer-ii-core-admin) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [experienced-security-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/experienced-security-engineer) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [sr-software-engineer-marketplace](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-08/sr-software-engineer-marketplace) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [senior-software-engineer-core-infrastructure](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/senior-software-engineer-core-infrastructure) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [staff-software-engineer-inference](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-08/staff-software-engineer-inference) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [View all 2562 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
