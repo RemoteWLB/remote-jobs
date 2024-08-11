@@ -6,6 +6,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [software-developer-full-stack-javascript-ecommerce](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/software-developer-full-stack-javascript-ecommerce) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [analytics-engineer-ii-121291](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/analytics-engineer-ii-121291) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [senior-mlops-engineer-110116](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/senior-mlops-engineer-110116) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [senior-unqork-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-08/senior-unqork-engineer) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
@@ -15,8 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [staff-software-engineer-122949](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-08/staff-software-engineer-122949) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
 | [senior-front-end-engineer-122883](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-front-end-engineer-122883) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [sr-backend-engineer-114294](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-08/sr-backend-engineer-114294) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [machine-learning-engineer-122966](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/machine-learning-engineer-122966) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [View all 2808 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 2809 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
