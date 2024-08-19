@@ -1,11 +1,12 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-08-18  
+### 🕘 Last updated: 2024-08-19  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [seo-engineer-12-month-contract](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/seo-engineer-12-month-contract) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [enterprise-applications-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/enterprise-applications-engineer) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [enterprise-engineering-backend-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-08/enterprise-engineering-backend-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
 | [senior-qa-engineer-122700](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-08/senior-qa-engineer-122700) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
@@ -15,8 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [senior-backend-engineer-video](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-backend-engineer-video) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [web-developer-remote](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/web-developer-remote) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [senior-mobile-engineer-flutter-104773](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-mobile-engineer-flutter-104773) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [backend-engineer-122984](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-08/backend-engineer-122984) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [View all 2855 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 2856 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
