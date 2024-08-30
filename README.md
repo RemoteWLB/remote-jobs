@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-08-29  
+### 🕘 Last updated: 2024-08-30  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [fullstack-sr-software-engineer-marketplace-remote-us](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/fullstack-sr-software-engineer-marketplace-remote-us) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [staff-fullstack-engineer-remote-us](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/staff-fullstack-engineer-remote-us) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [ai-engineer-remote-us](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/ai-engineer-remote-us) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [staff-quality-engineer-remote](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/staff-quality-engineer-remote) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [graphics-engineer-12-month-contract](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/graphics-engineer-12-month-contract) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [senior-backend-engineer-123314](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-08/senior-backend-engineer-123314) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
 | [freelance-software-developers-ai-training-remote-work-contract](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/freelance-software-developers-ai-training-remote-work-contract) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [part-time-software-engineer-and-data-scientist-ai-training](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/part-time-software-engineer-and-data-scientist-ai-training) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [senior-ios-developer-121832](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-ios-developer-121832) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [senior-sre-platform-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/senior-sre-platform-engineer) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [d365-f-o-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-08/d365-f-o-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [senior-field-engineer-east-region](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-08/senior-field-engineer-east-region) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-full-stack-engineer-123010](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-08/senior-full-stack-engineer-123010) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [senior-qa-engineer-123190](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-08/senior-qa-engineer-123190) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [View all 2906 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 2910 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
