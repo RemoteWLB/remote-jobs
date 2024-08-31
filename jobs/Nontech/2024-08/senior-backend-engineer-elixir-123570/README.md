@@ -1,6 +1,6 @@
 # [Senior Backend Engineer (Elixir)](https://www.remotewlb.com/apply/senior-backend-engineer-elixir-123570)  
 ### Remote  
-#### `🌎 Remote-LCG-Americas`  
+#### `💰 $51,850 to $171,450` `🌎 Remote-LCG-Americas`  
 
 ## The position
 
