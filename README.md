@@ -6,13 +6,13 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [sr-software-engineer-powerhouse](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/sr-software-engineer-powerhouse) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [senior-supplier-quality-engineer-104944](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/senior-supplier-quality-engineer-104944) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [software-engineer-124007](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/software-engineer-124007) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [adobe-martech-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/adobe-martech-engineer) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [aep-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/aep-engineer) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [martech-engineer-124023](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/martech-engineer-124023) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
-| [staff-software-engineer-react-native](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/staff-software-engineer-react-native) | [Nontech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [sr-software-engineer-powerhouse](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/sr-software-engineer-powerhouse) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [senior-supplier-quality-engineer-104944](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/senior-supplier-quality-engineer-104944) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [software-engineer-124007](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/software-engineer-124007) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [adobe-martech-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/adobe-martech-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [aep-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/aep-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [martech-engineer-124023](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/martech-engineer-124023) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
+| [staff-software-engineer-react-native](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/2024-09/staff-software-engineer-react-native) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Nontech/) |  
 | [staff-engineer-performance-and-capacity](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-09/staff-engineer-performance-and-capacity) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [senior-software-engineer-fleet](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-09/senior-software-engineer-fleet) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
 | [machine-learning-engineer-credit-modeling](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-09/machine-learning-engineer-credit-modeling) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
