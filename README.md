@@ -1,11 +1,13 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-09-16  
+### 🕘 Last updated: 2024-09-17  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [sr-systems-software-engineer-firmware-engineering](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-09/sr-systems-software-engineer-firmware-engineering) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [security-engineer-125188](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-09/security-engineer-125188) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
 | [machine-learning-engineer-123840](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-09/machine-learning-engineer-123840) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [frontend-engineer-123315](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-09/frontend-engineer-123315) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [frontend-engineer-web-performance](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/frontend-engineer-web-performance) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
@@ -14,9 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [network-software-engineer-122609](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/network-software-engineer-122609) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-application-security-engineer-123348](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-application-security-engineer-123348) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [software-engineer-wan-connector-115803](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/software-engineer-wan-connector-115803) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [systems-engineer-customer-identity-and-access-management](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/systems-engineer-customer-identity-and-access-management) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [core-systems-reliability-engineer-workflow-automation](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/core-systems-reliability-engineer-workflow-automation) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 1908 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 1910 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
