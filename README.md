@@ -6,6 +6,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [senior-software-engineer-123837](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-09/senior-software-engineer-123837) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
 | [associate-partner-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/associate-partner-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-release-engineer-infrastructure](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-release-engineer-infrastructure) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-software-engineer-123837](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-software-engineer-123837) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
@@ -15,8 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [frontend-engineer-123315](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-09/frontend-engineer-123315) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
 | [frontend-engineer-web-performance](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/frontend-engineer-web-performance) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [hardware-systems-engineer-hardware-tools-firmware](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/hardware-systems-engineer-hardware-tools-firmware) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [machine-learning-engineer-threat-intelligence](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/machine-learning-engineer-threat-intelligence) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 1913 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 1914 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
