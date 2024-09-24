@@ -1,11 +1,14 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-09-23  
+### 🕘 Last updated: 2024-09-24  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [senior-engineer-soc-modeling](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-engineer-soc-modeling) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [sr-software-development-engineer-115292](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/sr-software-development-engineer-115292) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-backend-engineer-ai-serving-node](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-backend-engineer-ai-serving-node) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [staff-platform-engineer-121427](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/staff-platform-engineer-121427) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [lead-engineer-hr-systems](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/lead-engineer-hr-systems) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [developer-advocate-121974](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/developer-advocate-121974) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
@@ -13,10 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [hardware-reliability-engineer-115042](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/hardware-reliability-engineer-115042) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-solutions-engineer-integrations-123377](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-solutions-engineer-integrations-123377) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [security-engineer-125465](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/security-engineer-125465) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-solutions-engineer-strategic-accounts-93772](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-solutions-engineer-strategic-accounts-93772) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [partnerships-development-manager-96247](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/partnerships-development-manager-96247) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [lead-integrations-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/lead-integrations-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 2023 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 2026 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
