@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-09-29  
+### 🕘 Last updated: 2024-09-30  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-salesforce-developer-125675](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-salesforce-developer-125675) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-salesforce-developer-126050](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-salesforce-developer-126050) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [zendesk-developer-111072](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/zendesk-developer-111072) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-ii-125468](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/software-engineer-ii-125468) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-ii-126078](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/software-engineer-ii-126078) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [sr-software-engineer-tech-lead-97435](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/sr-software-engineer-tech-lead-97435) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [copy-of-staff-software-engineer-node](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/copy-of-staff-software-engineer-node) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [staff-software-engineer-node-126089](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/staff-software-engineer-node-126089) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [sr-machine-learning-engineer-114113](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/sr-machine-learning-engineer-114113) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-iii-trust-and-safety](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/software-engineer-iii-trust-and-safety) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 2173 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [sr-cloud-infrastructure-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/sr-cloud-infrastructure-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [qa-automation-engineer-iv-appium-mobile](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/qa-automation-engineer-iv-appium-mobile) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-release-manager](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/software-release-manager) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-security-engineer-123355](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/software-security-engineer-123355) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [sr-cloud-infrastructure-engineer-126366](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/sr-cloud-infrastructure-engineer-126366) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [principal-ruby-on-rails-engineer-111544](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/principal-ruby-on-rails-engineer-111544) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [provider-network-development-manager](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/provider-network-development-manager) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [ruby-on-rails-software-developer-vm](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/ruby-on-rails-software-developer-vm) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-devsecops-engineer-v](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-devsecops-engineer-v) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-full-stack-developer-w](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-09/senior-full-stack-developer-w) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 2221 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
