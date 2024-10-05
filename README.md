@@ -6,17 +6,17 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [principal-software-engineer-127281](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-10/principal-software-engineer-127281) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [senior-software-engineer-127543](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-127543) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-staff-software-engineer-125282](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-staff-software-engineer-125282) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-staff-software-engineer-127554](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/senior-staff-software-engineer-127554) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [staff-site-reliability-engineer-116742](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-10/staff-site-reliability-engineer-116742) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
 | [capture-development-associate](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/capture-development-associate) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [capture-development-lead](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/capture-development-lead) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [test-automation-engineer-117281](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-10/test-automation-engineer-117281) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
 | [senior-software-engineer-with-erlang-experience](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-with-erlang-experience) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [full-stack-engineer-127229](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/full-stack-engineer-127229) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [staff-backend-engineer-chartering](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/staff-backend-engineer-chartering) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [staff-frontend-engineer-web-experience](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/staff-frontend-engineer-web-experience) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [staff-frontend-engineer-web-experience-127312](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/staff-frontend-engineer-web-experience-127312) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [staff-frontend-engineer-web-experience-127313](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/staff-frontend-engineer-web-experience-127313) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [director-software-engineer-base-focus-area](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-10/director-software-engineer-base-focus-area) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [View all 1252 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 1257 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
