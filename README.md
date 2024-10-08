@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-10-07  
+### 🕘 Last updated: 2024-10-08  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-software-engineer-127679](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-10/senior-software-engineer-127679) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [senior-test-automation-engineer-117281](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-test-automation-engineer-117281) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-software-engineer-127776](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-10/senior-software-engineer-127776) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [ruby-software-engineer-remote-113694](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/ruby-software-engineer-remote-113694) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-infrastructure-engineer-remote-120587](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-infrastructure-engineer-remote-120587) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-ruby-software-engineer-remote-113694](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-ruby-software-engineer-remote-113694) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-scala-software-engineer-remote-120589](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-scala-software-engineer-remote-120589) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-software-engineer-python-go-b2b-remote](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-python-go-b2b-remote) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-front-end-software-engineer-angular-remote-within-emea-107056](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-10/senior-front-end-software-engineer-angular-remote-within-emea-107056) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-front-end-software-engineer-angular-remote-within-emea-127807](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-10/senior-front-end-software-engineer-angular-remote-within-emea-127807) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [View all 1372 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-solutions-engineer-127889](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-solutions-engineer-127889) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [site-reliability-engineer-technical-lead](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/site-reliability-engineer-technical-lead) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [senior-software-engineer-rust-go](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-rust-go) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-backend-engineer-rust-valantis](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-backend-engineer-rust-valantis) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [director-of-engineering-developer-productivity-enablement-infra-tooling](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/director-of-engineering-developer-productivity-enablement-infra-tooling) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [senior-backend-software-engineer-127430](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-backend-software-engineer-127430) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-fullstack-software-engineer-120382](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-fullstack-software-engineer-120382) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [staff-software-engineer-127993](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/staff-software-engineer-127993) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [staff-software-engineer-128072](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/staff-software-engineer-128072) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-data-infrastructure-94976](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/software-engineer-data-infrastructure-94976) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [View all 1416 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
