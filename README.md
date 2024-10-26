@@ -1,11 +1,14 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-10-25  
+### 🕘 Last updated: 2024-10-26  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [lead-php-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/lead-php-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [ms-snowflake-sql-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/ms-snowflake-sql-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-mulesoft-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-mulesoft-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-software-engineer-performance-systems](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-performance-systems) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [emea-field-application-engineer-manager](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/emea-field-application-engineer-manager) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [emea-field-application-engineer-manager-131737](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/emea-field-application-engineer-manager-131737) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
@@ -13,10 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [backend-software-specialist-118428](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/backend-software-specialist-118428) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-backend-software-engineer-128046](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-backend-software-engineer-128046) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [operations-engineer-130917](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/operations-engineer-130917) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [devsecops-engineer-130721](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/devsecops-engineer-130721) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-131718](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/software-engineer-131718) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [solutions-engineer-131489](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/solutions-engineer-131489) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 2139 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 2142 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
