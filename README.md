@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-10-29  
+### 🕘 Last updated: 2024-10-30  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [software-engineer-ii-131523](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/software-engineer-ii-131523) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-full-stack-engineer-frontend-97890](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-full-stack-engineer-frontend-97890) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-developer-relations-engineer-developer-experience](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-developer-relations-engineer-developer-experience) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-protocol-security-engineer-interop-deployment-safety](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-protocol-security-engineer-interop-deployment-safety) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-platform-130115](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-platform-130115) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-platform-131903](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-platform-131903) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-rust-128029](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-rust-128029) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-react-typescript](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-react-typescript) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [full-stack-engineer-131124](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/full-stack-engineer-131124) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
 | [senior-python-engineer-129602](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-10/senior-python-engineer-129602) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [senior-software-engineer-ai-agent-team-108941](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-ai-agent-team-108941) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-application-engineer-106809](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-10/senior-application-engineer-106809) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [senior-software-engineer-backend-131233](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-software-engineer-backend-131233) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [client-development-executive-128379](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/2024-10/client-development-executive-128379) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23/) |  
-| [sr-software-engineer-reference-data](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/sr-software-engineer-reference-data) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [sr-frontend-software-engineer-navigator](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/sr-frontend-software-engineer-navigator) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-human-data-full-time](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/software-engineer-human-data-full-time) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-genesys-cloud-engineer-102972](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-10/senior-genesys-cloud-engineer-102972) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 2158 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 2166 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
