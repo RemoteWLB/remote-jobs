@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-11-05  
+### 🕘 Last updated: 2024-11-06  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-front-end-software-engineer-ii-platform](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-11/senior-front-end-software-engineer-ii-platform) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [senior-software-engineer-i-practice-engagement](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-11/senior-software-engineer-i-practice-engagement) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
-| [experienced-software-engineer-front-end-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-11/experienced-software-engineer-front-end-engineer) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [senior-backend-engineer-elixir-125740](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-backend-engineer-elixir-125740) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-developer-contact-center-systems](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/senior-developer-contact-center-systems) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [senior-qa-automation-engineer-131830](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-qa-automation-engineer-131830) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [principal-engineer-134030](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/principal-engineer-134030) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [principal-engineer-134648](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/principal-engineer-134648) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-tools-engineer-central-tech](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-tools-engineer-central-tech) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [quality-automation-engineer-121776](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/quality-automation-engineer-121776) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 2003 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-software-engineer-i-full-stack](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/senior-software-engineer-i-full-stack) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [software-engineer-ii-134687](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/software-engineer-ii-134687) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [staff-software-engineer-data-infrastructure-132513](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/staff-software-engineer-data-infrastructure-132513) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [senior-software-engineer-full-stack-133165](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-software-engineer-full-stack-133165) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-134710](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/senior-software-engineer-134710) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [senior-ruby-developer-hybrid-or-remote-in-uk](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-ruby-developer-hybrid-or-remote-in-uk) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-developer-remote-in-uk](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-11/full-stack-developer-remote-in-uk) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [staff-platform-engineer-backend](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/staff-platform-engineer-backend) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [technical-services-engineer-103163](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/technical-services-engineer-103163) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [full-stack-developer-data-science-applications-remote-us](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/full-stack-developer-data-science-applications-remote-us) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [View all 2023 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
