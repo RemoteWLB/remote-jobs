@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2024-11-06  
+### 🕘 Last updated: 2024-11-07  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-software-engineer-i-full-stack](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/senior-software-engineer-i-full-stack) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [software-engineer-ii-134687](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/software-engineer-ii-134687) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [staff-software-engineer-data-infrastructure-132513](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/staff-software-engineer-data-infrastructure-132513) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [senior-software-engineer-full-stack-133165](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-software-engineer-full-stack-133165) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-software-engineer-134710](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/senior-software-engineer-134710) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [senior-ruby-developer-hybrid-or-remote-in-uk](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/senior-ruby-developer-hybrid-or-remote-in-uk) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [full-stack-developer-remote-in-uk](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-11/full-stack-developer-remote-in-uk) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [staff-platform-engineer-backend](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/staff-platform-engineer-backend) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [technical-services-engineer-103163](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/technical-services-engineer-103163) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [full-stack-developer-data-science-applications-remote-us](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/full-stack-developer-data-science-applications-remote-us) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [View all 2023 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [care-network-development-manager](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/care-network-development-manager) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [machine-learning-engineer-134524](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/machine-learning-engineer-134524) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [front-end-developer-javascript-134193](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2024-11/front-end-developer-javascript-134193) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [senior-front-end-engineer-olo-pay](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-11/senior-front-end-engineer-olo-pay) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [embedded-systems-software-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2024-11/embedded-systems-software-engineer) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [mobile-engineer-specialist-flutter-122713](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2024-11/mobile-engineer-specialist-flutter-122713) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [staff-software-engineer-golang-131235](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2024-11/staff-software-engineer-golang-131235) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [software-engineer-backend-indexer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/software-engineer-backend-indexer) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [staff-react-native-engineer-109847](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2024-11/staff-react-native-engineer-109847) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [software-engineer-intern-134518](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2024-11/software-engineer-intern-134518) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [View all 2036 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
