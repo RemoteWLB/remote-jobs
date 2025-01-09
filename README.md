@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2025-01-08  
+### 🕘 Last updated: 2025-01-09  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [senior-developer-product-engineering](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/senior-developer-product-engineering) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [director-corporate-development-ca](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2025-01/director-corporate-development-ca) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [director-corporate-development-us](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/director-corporate-development-us) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-rust-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/senior-rust-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [mobile-engineer-ii-engage](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/mobile-engineer-ii-engage) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-mobile-engineer-engage](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/senior-mobile-engineer-engage) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [intermediate-bi-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/intermediate-bi-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-site-reliability-engineer-remote-us-129403](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/senior-site-reliability-engineer-remote-us-129403) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [lead-kubernetes-engineer-fdic](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/lead-kubernetes-engineer-fdic) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
-| [rpa-developer-uipath-hhs](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2025-01/rpa-developer-uipath-hhs) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
-| [View all 668 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [lead-python-angular-engineer-aa](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/2025-01/lead-python-angular-engineer-aa) | [PHP](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/PHP/) |  
+| [senior-software-engineer-138408](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/2025-01/senior-software-engineer-138408) | [Java](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Java/) |  
+| [federal-solutions-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2025-01/federal-solutions-engineer) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
+| [dealer-development-manager-ny-nj-area](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/dealer-development-manager-ny-nj-area) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-site-reliability-engineer-i-123107](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/senior-site-reliability-engineer-i-123107) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [developer-graphics-remote](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/developer-graphics-remote) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [sr-sled-systems-engineer-southern-california](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/sr-sled-systems-engineer-southern-california) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [sr-systems-engineer-must-reside-in-louisiana-or-mississippi](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/sr-systems-engineer-must-reside-in-louisiana-or-mississippi) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [web3-sr-software-engineer-serotonin-product-studio-remote-135626](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2025-01/web3-sr-software-engineer-serotonin-product-studio-remote-135626) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
+| [software-engineering-manager-132602](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/2025-01/software-engineering-manager-132602) | [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C#/) |  
+| [View all 684 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
