@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2025-01-14  
+### 🕘 Last updated: 2025-01-15  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [qa-automation-engineer-ii-backend-apis](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/qa-automation-engineer-ii-backend-apis) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [solutions-engineer-138594](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/solutions-engineer-138594) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [android-mobile-software-engineer-intern-summer-2025](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/android-mobile-software-engineer-intern-summer-2025) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [android-mobile-software-engineer-intern-summer-2025-139682](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/android-mobile-software-engineer-intern-summer-2025-139682) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [android-mobile-software-engineer-intern-summer-2025-139683](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/android-mobile-software-engineer-intern-summer-2025-139683) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [android-mobile-software-engineer-intern-summer-2025-139684](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/android-mobile-software-engineer-intern-summer-2025-139684) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [regulatory-engineer-107870](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/regulatory-engineer-107870) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [full-stack-software-engineer-marketing-automation-123118](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/full-stack-software-engineer-marketing-automation-123118) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [principal-software-engineer-java-133047](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/2025-01/principal-software-engineer-java-133047) | [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang/) |  
-| [mobile-engineer-mid-level-l2](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/2025-01/mobile-engineer-mid-level-l2) | [Python](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Python/) |  
-| [View all 921 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [software-engineer-for-training-ai-data-python-norwegian-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-norwegian-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-voor-het-trainen-van-ai-data](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-voor-het-trainen-van-ai-data) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-malay-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-malay-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-dutch-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-dutch-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-swedish](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-swedish) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-danish-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-danish-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-finnish-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-finnish-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-belgian-dutch-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-belgian-dutch-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-for-training-ai-data-python-thai-language](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/software-engineer-for-training-ai-data-python-thai-language) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-engineer-ci-cd](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-01/senior-engineer-ci-cd) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 942 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
