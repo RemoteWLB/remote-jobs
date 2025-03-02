@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2025-03-01  
+### 🕘 Last updated: 2025-03-02  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [software-engineer-ii-application-platform](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-ii-application-platform) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-security-observability](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-security-observability) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [security-engineer-application-security-129569](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/security-engineer-application-security-129569) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [hardware-security-engineer-trusted-computing-and-cryptography-140485](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/hardware-security-engineer-trusted-computing-and-cryptography-140485) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [security-engineer-cloud-security-95637](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/security-engineer-cloud-security-95637) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [security-engineer-cloud-security-141114](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/security-engineer-cloud-security-141114) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [security-engineer-data-center-security](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/security-engineer-data-center-security) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [security-engineer-data-center-security-141116](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/security-engineer-data-center-security-141116) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [software-engineer-defensive-security-agent-engineering](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-defensive-security-agent-engineering) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [lead-engineer-simulation](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/lead-engineer-simulation) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-software-engineer-machine-learning-134843](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-software-engineer-machine-learning-134843) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [research-engineer-applied-ai](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/research-engineer-applied-ai) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [backend-software-engineer-ai-document-generation](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/backend-software-engineer-ai-document-generation) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/backend-software-engineer-ai-document-generation) |  
-| [backend-software-engineer-ai-platform](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/backend-software-engineer-ai-platform) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/backend-software-engineer-ai-platform) |  
-| [software-engineer-backend-all-levels](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/software-engineer-backend-all-levels) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/software-engineer-backend-all-levels) |  
-| [software-engineer-full-stack-all-levels](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/software-engineer-full-stack-all-levels) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/software-engineer-full-stack-all-levels) |  
-| [software-engineer-frontend-all-levels](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/software-engineer-frontend-all-levels) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/software-engineer-frontend-all-levels) |  
-| [machine-learning-engineer-140660](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/machine-learning-engineer-140660) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/machine-learning-engineer-140660) |  
-| [senior-machine-learning-engineer-137866](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/senior-machine-learning-engineer-137866) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-02/senior-machine-learning-engineer-137866) |  
-| [View all 958 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 967 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
