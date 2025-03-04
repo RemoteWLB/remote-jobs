@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2025-03-03  
+### 🕘 Last updated: 2025-03-04  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [full-stack-engineer-intern-105055](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-intern-105055) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-security-engineer-140675](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-security-engineer-140675) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-front-end-software-engineer-cad-3d-systems](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-front-end-software-engineer-cad-3d-systems) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-solutions-engineer-140831](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-solutions-engineer-140831) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [director-solution-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/director-solution-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [partner-development-manager-public-sector](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/partner-development-manager-public-sector) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [partner-development-director-96640](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/partner-development-director-96640) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [partner-development-manager-141142](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/partner-development-manager-141142) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [solution-engineer-enterprise-acquisition-all-levels](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/solution-engineer-enterprise-acquisition-all-levels) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-partner-solution-engineer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-partner-solution-engineer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 977 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [senior-software-engineer-fullstack-product-platform-140665](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-software-engineer-fullstack-product-platform-140665) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-frontend-platform](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-software-engineer-frontend-platform) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-software-engineer-core-platform-108734](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-software-engineer-core-platform-108734) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [backend-engineer-php-130633](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/backend-engineer-php-130633) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [frontend-engineer-react-js-india](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/frontend-engineer-react-js-india) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [lead-sql-developer](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/lead-sql-developer) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-analytics-engineer-data-platform](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-analytics-engineer-data-platform) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [senior-backend-engineer-node-js-typescript-140722](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-backend-engineer-node-js-typescript-140722) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [backend-engineer-node-js-typescript-141211](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/backend-engineer-node-js-typescript-141211) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [platform-engineer-backend-developer-experience-140764](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/platform-engineer-backend-developer-experience-140764) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 992 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
