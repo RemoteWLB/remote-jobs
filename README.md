@@ -1,22 +1,22 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2025-03-06  
+### 🕘 Last updated: 2025-03-07  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
-| [software-engineer-backend-scala](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-backend-scala) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-backend-scala-141255](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-backend-scala-141255) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [ai-engineer-140851](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/ai-engineer-140851) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [ai-engineer-141262](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/ai-engineer-141262) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [site-reliability-engineer-140561](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/site-reliability-engineer-140561) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [site-reliability-engineer-141289](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/site-reliability-engineer-141289) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [platform-engineer-mlops](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/platform-engineer-mlops) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [platform-engineer-mlops-141321](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/platform-engineer-mlops-141321) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-frontend-141161](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-frontend-141161) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [software-engineer-frontend-141323](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/software-engineer-frontend-141323) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 1007 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [backend-engineer-billing-marketplaces](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/backend-engineer-billing-marketplaces) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141122](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141122) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141362](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141362) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141363](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141363) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141364](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141364) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141365](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141365) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141366](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141366) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141367](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141367) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141368](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141368) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [full-stack-engineer-141369](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/full-stack-engineer-141369) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
+| [View all 1046 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
