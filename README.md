@@ -1,11 +1,12 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
-### 🕘 Last updated: 2025-03-11  
+### 🕘 Last updated: 2025-03-12  
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
 ## Latest remote jobs  
 | Title | Skill |  
 |:-----:|:-----:|  
+| [corporate-development-138345](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/corporate-development-138345) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [senior-software-engineer-go-139810](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-software-engineer-go-139810) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [qa-engineer-ii-mid-level](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/qa-engineer-ii-mid-level) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [qa-automation-engineer-ii-139679](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/qa-automation-engineer-ii-139679) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
@@ -15,8 +16,7 @@ Come here.🎁 A remote jobs board that updates daily. We collect the remote job
 | [senior-solution-engineer-140608](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-solution-engineer-140608) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [staff-software-engineer-react-native-128124](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/staff-software-engineer-react-native-128124) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
 | [web-developer-139252](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/web-developer-139252) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [senior-software-engineer-backend-personnel-workflows](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/2025-03/senior-software-engineer-backend-personnel-workflows) | [Others](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Others/) |  
-| [View all 1065 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
+| [View all 1066 remote jobs 👋](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs) | ... |  
 ## More tech remote jobs  
 * [C#](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/C%23)  
 * [Golang](https://github.com/RemoteWLB/remote-jobs/tree/main/jobs/Golang)   
