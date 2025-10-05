@@ -1,5 +1,7 @@
 # [Remote Jobs](https://github.com/RemoteWLB/remote-jobs)  
 ### 🕘 Last updated: 2025-03-13  
+❗️❗️❗️This project is maintained by me in my spare time, but from the update time, You can see that I have not maintained it for a while because I am very busy at work. But I will be back soon and this project will have a new revival.
+### By the way, Keep me motivated by supporting the project with a star⭐. Newest remote job update in [RemoteWLB](https://remotewlb.com)
 Are you looking for a remote job? 💼 Work from home? 👩‍💻 Work-life balance?  
 Come here.🎁 A remote jobs board that updates daily. We collect the remote jobs from around the web which categorized by skill and pubdate. This way you get all fresh remote work opportunities in here easily.  
   
